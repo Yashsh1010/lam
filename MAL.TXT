@@ -1,0 +1,29 @@
+{
+    "type": "object",
+    "properties": {
+        "Customer_Name": {
+            "type": [
+                "string",
+                "null"
+            ]
+        },
+        "Start_Date": {
+            "type": [
+                "string",
+                "null"
+            ]
+        },
+        "End_Date": {
+            "type": [
+                "string",
+                "null"
+            ]
+        },
+        "Total_Amount": {
+            "type": [
+                "integer",
+                "null"
+            ]
+        }
+    }
+}
